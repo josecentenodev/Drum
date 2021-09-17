@@ -83,3 +83,18 @@ footer {
     -webkit-filter: grayscale(1);
     -webkit-transform: scale(1.1);
 }
+
+.redes-sociales {
+    margin-top: 50px;
+    padding: 50px;
+}
+
+.redes-sociales a {
+    text-decoration: none;
+    color: #DA0463;
+}
+
+.redes-sociales i {
+    font-size: 45px;
+    padding: 7.5px;
+}
